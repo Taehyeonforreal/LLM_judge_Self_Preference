@@ -1,0 +1,15 @@
+# Python 3.11. Analysis, figures and tests:
+matplotlib
+jupyter
+pytest
+
+# Symbolic answer equivalence in src/verifier.py (needed only to relabel responses):
+sympy
+regex
+latex2sympy2
+antlr4-python3-runtime
+word2number
+timeout-decorator
+
+# Only for scripts/build_problems.py:
+# datasets
